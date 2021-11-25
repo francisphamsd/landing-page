@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;0,900;1,300&display=swap");
+
+/* TYPOGRAPHY */
+
+:root {
+  --dark-blue: #1f2937; /* bg color (hero & footer), info header text, quote text */
+  --white: #f9faf8; /* hero main text, header logo text color */
+  --gray: #e5e7eb; /* hero secondary text, header link text color, quote section bg color */
+  --blue: #3882f6; /* button color, cta bg color */
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
